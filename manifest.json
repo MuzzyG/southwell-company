@@ -1,0 +1,9 @@
+{
+    "name": "SouthwellCompany",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds a 20 of posters for da bois",
+    "dependencies": [
+        "femboytv-LethalPosters-1.2.0"
+    ]
+}
